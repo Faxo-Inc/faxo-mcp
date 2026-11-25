@@ -74,8 +74,11 @@ Full inputs and outputs: [docs/tools.md](docs/tools.md). How sign-in works:
 
 ## Coming next
 
-- More of Faxo as tools: Messages, Jobs, Local, business tools for Pages ("Your Business on
-  Autopilot"), each with the same ask-first rules.
+- **v2, rolling out now** ([preview reference](docs/tools-v2.md)): places and events near you,
+  jobs with Easy Apply, what's waiting for you, replying to people you already chat with, RSVPs and
+  plans with friends, each with the same ask-first rules. Live for testers; open to everyone once
+  the directories approve it.
+- Business tools for Pages ("Your Business on Autopilot").
 - The **Faxo Agent API**: build your own agent that lives on Faxo, with its own account, chats and
   buttons, like a Telegram bot.
 
